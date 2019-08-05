@@ -7,4 +7,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## Screenshot
 
-![image](https://github.com/zeeshanayaz/my-card-Flutter-App/blob/master/images/zeeshan-dp.png)
+![image](https://github.com/zeeshanayaz/my-card-Flutter-App/blob/master/images/mi-card-app-screenshot-android.png)
